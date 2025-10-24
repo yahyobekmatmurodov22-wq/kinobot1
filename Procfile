@@ -1,1 +1,1 @@
-web: python app.py
+web: python kinobot1.py
